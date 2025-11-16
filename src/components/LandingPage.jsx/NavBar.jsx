@@ -13,6 +13,9 @@ const NavBar = () => {
         <li>
           <a href="#contact" style={{ color: 'white', textDecoration: 'none' }}>Contact</a>
         </li>
+        <li>
+          <a href="#login" style={{ color: 'white', textDecoration: 'none' }}>Contact</a>
+        </li>
       </ul>
     </nav>
   );
