@@ -1,10 +1,10 @@
-import NavBar from "./components/LandingPage.jsx/NavBar";
+import LandingPage from "./components/Landing";
+import React from "react";
 
 function App() {
   return (
-    <div className="App">
-      <NavBar />
-      {/* Other components can be added here */}
+    <div>
+      <LandingPage />
     </div>
   );
 }
